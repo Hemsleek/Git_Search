@@ -1,0 +1,10 @@
+
+.wrapper{
+  @apply w-[30vw] h-[60vh] flex flex-col ;
+}
+.searchInput{
+  @apply w-full p-2 bg-transparent;
+}
+.display{
+  @apply flex-grow flex flex-col mt-2;
+}
